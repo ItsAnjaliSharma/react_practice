@@ -98,7 +98,7 @@ function Signup() {
 
         <button type="submit">Signup</button>
         <span>
-          Already Have An Account? <Link to="/login">Login</Link>
+          Already Have An Account? <Link to="/">Login</Link>
         </span>
       </form>
       <ToastContainer />
